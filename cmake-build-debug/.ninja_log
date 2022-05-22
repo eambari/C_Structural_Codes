@@ -1,0 +1,23 @@
+# ninja log v5
+353	734	1644189810132620800	Lab3_Task1.exe	eeab539a5ca0b4b8
+12	663	1644575941763088100	CMakeFiles/Exam_Task2.dir/Exam/Task2.c.o	ebda54d289395140
+283	547	1644249006158229300	Extra_TicTacToe.exe	2098f11de545c577
+68	282	1644249005949949700	CMakeFiles/Extra_TicTacToe.dir/Extra/TicTacToe.c.o	317be05face08fe
+667	1349	1644575942435422100	Exam_Task2.exe	478d978cf6bfe6b7
+10	419	1649004671736205300	CMakeFiles/Extra_sasa.dir/Extra/sasa.c.o	617197d9ab493d36
+422	1071	1649004672320997300	Extra_sasa.exe	54c0c0abac7da74e
+9	509	1644230115156349700	CMakeFiles/main.dir/main.c.o	5ebc12ef8c7627bb
+224	457	1644248593376787200	Extra_GuessTheNumber.exe	76e69d07c72c89dc
+4	548	1644189798371158700	CMakeFiles/Lab2_Task1.dir/Lab2/Task1.c.o	f0877e263aee4f55
+512	1219	1644230115854579200	main.exe	8d9f49c604cd635c
+3	347	1644266106942049200	CMakeFiles/FirstPartialExamExercises_Task9.dir/FirstPartialExamExercises/Task9.c.o	e139bf71ce6d4a1a
+411	929	1644191790827946200	SecondPartialExamExercises_Task18.exe	7dbc8475ae61c5d9
+465	1093	1644183283714821900	Strucutral_Programming_Codes.exe	9469ee32f17db8e3
+348	692	1644266107285719200	FirstPartialExamExercises_Task9.exe	a333af390879bc6e
+10	629	1644575105489023500	CMakeFiles/Exam_Task1.dir/Exam/Task1.c.o	e1493ee11a6f7b23
+4	223	1644248593142501400	CMakeFiles/Extra_GuessTheNumber.dir/Extra/GuessTheNumber.c.o	51cbd74f65add134
+4	408	1644191790284367000	CMakeFiles/SecondPartialExamExercises_Task18.dir/SecondPartialExamExercises/Task18.c.o	7730f2dd2f7e1dca
+632	1283	1644575106129027900	Exam_Task1.exe	745d3f0495d0f88e
+339	737	1644186637722335700	Task1.exe	950b722cfdc43600
+552	1047	1644189798871408800	Lab2_Task1.exe	77a1f9e9bbd185bf
+4	351	1644189809757712000	CMakeFiles/Lab3_Task1.dir/Lab3/Task1.c.o	2329c9a23ee5225c
